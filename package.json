@@ -1,0 +1,20 @@
+{
+  "name": "differentsquares",
+  "version": "1.0.0",
+  "description": "Given a rectangular matrix containing only digits, calculate the number of different `2 × 2` squares in it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/differentSquares.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/differentSquares/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/differentSquares#readme"
+}
